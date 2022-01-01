@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-3n24f#6c5+8uv8nqbwu9gvut45m-$vry+egq+gx7(4=_qc-f=&
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'tejasjanjire.herokuapp.com'
+    'tejasjanjire.herokuapp.com',
+    '127.0.0.1'
 ]
 
 
